@@ -1,0 +1,22 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5433,
+      "driver": "PostgreSQL",
+      "name": "postgres-local",
+      "database": "postgres",
+      "username": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5433,
+      "driver": "PostgreSQL",
+      "name": "nextjs-dashboard-local",
+      "database": "nextjs_dashboard_postgres",
+      "username": "postgres"
+    }
+  ]
+}
